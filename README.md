@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
+# Date: 23/10/2025  
+# Register no.:25005647
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -31,7 +31,7 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
-
+https://drive.google.com/file/d/1a2oQCk30Qab-TxvptW4sCQe613S688O9/view?usp=drive_link
 # Result: The Prompt of the above task executed successfully
 
 
